@@ -1,2 +1,1 @@
-# MindMusic
-Music player
+# music-player-coding-ninjas
